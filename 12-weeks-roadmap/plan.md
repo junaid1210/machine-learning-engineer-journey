@@ -8,15 +8,11 @@
 
 ---
 
-### 📅 Week 1: Python + Git & GitHub
+### 📅 Week 1: Python
 
 * **Day 1–2**: Python basics — syntax, data types, loops, functions
-* **Day 3**: OOP — classes, inheritance, polymorphism
-* **Day 4**: Error handling, file I/O, exceptions
-* **Day 5–6**:
-
-  * Git basics — `init`, `add`, `commit`, `push`, `pull`, branches
-  * Create GitHub profile + upload basic Python project
+* **Day 3-4**: OOP — classes, inheritance, polymorphism
+* **Day 5**: Error handling, file I/O, exceptions
 * **Daily**: 1 LeetCode (Arrays, Strings)
 
 ---
